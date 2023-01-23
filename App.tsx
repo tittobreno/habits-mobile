@@ -8,7 +8,7 @@ import {
   Inter_700Bold,
   Inter_800ExtraBold,
 } from "@expo-google-fonts/inter";
-import { Loanding } from "./src/components/Loading";
+import Loading from "./src/components/Loading";
 import Routes from "./src/routes";
 
 export default function App() {
@@ -20,7 +20,7 @@ export default function App() {
   });
 
   if (!fontsLoaded) {
-    return <Loanding />;
+    return <Loading />;
   }
 
   return (
