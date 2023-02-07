@@ -9,4 +9,4 @@
 - DayJS
 - Axios
 - CLSX
-- React-Native-Animated
+- React-Native-Reanimated
