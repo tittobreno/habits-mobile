@@ -2,8 +2,9 @@
 ### REPOSITÓRIO DA EDIÇÃO DO NLW SETUP - VERSÃO MOBILE
 
 ## Tecnologias utilizadas:
-- Expo
+- Typescript
 - React Native
+- Expo
 - TailwindCSS
 - DayJS
 - CLSX
