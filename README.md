@@ -7,5 +7,6 @@
 - Expo
 - TailwindCSS
 - DayJS
-- CLSX
 - Axios
+- CLSX
+- React-Native-Animated
