@@ -1,5 +1,5 @@
 # NLW-SETUP-MOBILE
-### REPOSITÓRIO DA EDIÇÃO DO NLW SETUP - VERSÃO MOBILE
+### REPOSITÓRIO DA EDIÇÃO DO NLW SETUP - MOBILE
 
 ## Tecnologias utilizadas:
 - Typescript
