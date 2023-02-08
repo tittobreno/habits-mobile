@@ -1,7 +1,7 @@
 # NLW-SETUP-MOBILE
 ### REPOSITÓRIO DA EDIÇÃO DO NLW SETUP - MOBILE
 
-## Tecnologias utilizadas:
+## Tecnologias utilizadas
 - Typescript
 - React Native
 - Expo
