@@ -1,4 +1,6 @@
+import "./global.css";
 import "./src/lib/dayjs";
+import "./src/lib/nativewind";
 
 import {
   Inter_400Regular,
@@ -7,7 +9,7 @@ import {
   Inter_800ExtraBold,
   useFonts,
 } from "@expo-google-fonts/inter";
-import { StatusBar } from "react-native";
+import { StatusBar } from "expo-status-bar";
 import Loading from "./src/components/Loading";
 import Routes from "./src/routes";
 
@@ -26,11 +28,7 @@ export default function App() {
   return (
     <>
       <Routes />
-      <StatusBar
-        barStyle="light-content"
-        backgroundColor="transparent"
-        translucent
-      />
+      <StatusBar style="light" />
     </>
   );
 }

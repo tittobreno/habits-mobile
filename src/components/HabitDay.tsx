@@ -50,7 +50,7 @@ const HabitDay = ({
           amountAccomplishedPercentage >= 60 &&
           amountAccomplishedPercentage < 80,
         ["bg-violet-500 border-violet-400"]: amountAccomplishedPercentage >= 80,
-        ["border-2 border-white"]: isCurrentDay,
+        ["border-2 !border-white"]: isCurrentDay,
       })}
       activeOpacity={0.7}
       {...rest}
